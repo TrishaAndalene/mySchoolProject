@@ -1,0 +1,5 @@
+A = input()
+B = float(input())
+C = float(input())
+TOTAL = B + (C*3/20)
+print("TOTAL = R$ %.2f" % TOTAL )
