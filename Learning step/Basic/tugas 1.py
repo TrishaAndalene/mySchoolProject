@@ -1,0 +1,1 @@
+print("Trisha Andalene", ("28 Oktober 2006"))

@@ -1,0 +1,9 @@
+tipe data dbagi 2
+1. angka :
+	a. float  = float(input(...))
+	b. integer = int(input(...))
+cara ngeblock = shift + end
+derajat dibagi 2 : degrees = 0 derajat - 360 & radian = 0 derajat - 2pi (6.28) 
+import math = menambah syntax matematika
+b** = b kuadrat
+b*** = b pangkat 3

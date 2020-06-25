@@ -1,0 +1,9 @@
+1. Pastikan ada file installer python sudah ada, bisa copy dengan teman atau download di python.org
+2. Cari filenya sdh ada
+3. Double click file installer
+4. Jangan lupa checklist -> add PATH di bag, bawah
+5. Click Install Now
+6. Tunggu
+7. Pilih Disable Path Length
+8. Finish
+ 
