@@ -1,2 +1,2 @@
 # mySchoolProject
-My first projects in programming from basic
+A step-by-step approach in my computer programming studies. The repositories contain the basics of programming concepts, such as variables, data types, conditional statements, and loop projects that I have written. I learned this field with the guidance of my computer teacher at my school or by Stack Overflow and other internet websites to seek inspiration and solve the issues in my codes
